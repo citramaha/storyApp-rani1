@@ -1,0 +1,2 @@
+APP_URL=<https://citramaha.github.io/storyApp-rani1/>
+MAP_SERVICE_API_KEY=<api_key>
